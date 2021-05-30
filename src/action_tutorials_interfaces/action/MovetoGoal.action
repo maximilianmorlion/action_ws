@@ -1,0 +1,5 @@
+float32 goal
+---
+bool arrived
+---
+float32 covered_distance
